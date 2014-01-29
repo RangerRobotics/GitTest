@@ -11,8 +11,8 @@ package gittesting;
  * @author Developer
  */
 public class GITTesting {
-private static int myNum;
-private static int myNum2;
+private static final int myNum = 1;
+private static final int myNum2 = 3;
     /**
      * @param args the command line arguments
      */
