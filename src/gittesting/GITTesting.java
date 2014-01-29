@@ -12,7 +12,7 @@ package gittesting;
  */
 public class GITTesting {
 private static final int myNum = 1;
-private static final int myNum2 = 3;
+private static final int myNum2 = 4;
     /**
      * @param args the command line arguments
      */
