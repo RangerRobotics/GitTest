@@ -19,7 +19,7 @@ private static int myNum2;
     
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(myNum);
+        System.out.println(myNum2);
     }
     
 }
